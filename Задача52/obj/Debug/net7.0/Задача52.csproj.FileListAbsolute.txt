@@ -1,0 +1,15 @@
+C:\Users\akordel\Desktop\Seminar7DZ\Задача52\obj\Debug\net7.0\Задача52.csproj.AssemblyReference.cache
+C:\Users\akordel\Desktop\Seminar7DZ\Задача52\obj\Debug\net7.0\Задача52.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akordel\Desktop\Seminar7DZ\Задача52\obj\Debug\net7.0\Задача52.AssemblyInfoInputs.cache
+C:\Users\akordel\Desktop\Seminar7DZ\Задача52\obj\Debug\net7.0\Задача52.AssemblyInfo.cs
+C:\Users\akordel\Desktop\Seminar7DZ\Задача52\obj\Debug\net7.0\Задача52.csproj.CoreCompileInputs.cache
+C:\Users\akordel\Desktop\Seminar7DZ\Задача52\bin\Debug\net7.0\Задача52.exe
+C:\Users\akordel\Desktop\Seminar7DZ\Задача52\bin\Debug\net7.0\Задача52.deps.json
+C:\Users\akordel\Desktop\Seminar7DZ\Задача52\bin\Debug\net7.0\Задача52.runtimeconfig.json
+C:\Users\akordel\Desktop\Seminar7DZ\Задача52\bin\Debug\net7.0\Задача52.dll
+C:\Users\akordel\Desktop\Seminar7DZ\Задача52\bin\Debug\net7.0\Задача52.pdb
+C:\Users\akordel\Desktop\Seminar7DZ\Задача52\obj\Debug\net7.0\Задача52.dll
+C:\Users\akordel\Desktop\Seminar7DZ\Задача52\obj\Debug\net7.0\refint\Задача52.dll
+C:\Users\akordel\Desktop\Seminar7DZ\Задача52\obj\Debug\net7.0\Задача52.pdb
+C:\Users\akordel\Desktop\Seminar7DZ\Задача52\obj\Debug\net7.0\Задача52.genruntimeconfig.cache
+C:\Users\akordel\Desktop\Seminar7DZ\Задача52\obj\Debug\net7.0\ref\Задача52.dll
